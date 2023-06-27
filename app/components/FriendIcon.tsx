@@ -9,6 +9,7 @@ import Ellie from '../../girl_image.jpeg'
 
 // const Posts: FunctionComponent<Props> = ({posts, })
 
+
 export default function FriendIcon() {
     return(
         <div>
